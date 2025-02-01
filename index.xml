@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Permito&#39;s</title>
+    <link>https://permito.rocks/</link>
+    <description>Recent content on Permito&#39;s</description>
+    <generator>Hugo -- 0.126.2</generator>
+    <language>en</language>
+    <copyright>Piotr Jabłoński</copyright>
+    <lastBuildDate>Fri, 31 Jan 2025 21:14:06 +0100</lastBuildDate>
+    <atom:link href="https://permito.rocks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://permito.rocks/about/</link>
+      <pubDate>Fri, 31 Jan 2025 21:14:06 +0100</pubDate>
+      <guid>https://permito.rocks/about/</guid>
+      <description>&lt;p&gt;Learn more about me&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>https://permito.rocks/posts/hello-world/</link>
+      <pubDate>Fri, 31 Jan 2025 18:02:07 +0100</pubDate>
+      <guid>https://permito.rocks/posts/hello-world/</guid>
+      <description>&lt;p&gt;Where it all began&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

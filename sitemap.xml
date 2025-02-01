@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://permito.rocks/about/</loc>
+    <lastmod>2025-01-31T21:14:06+01:00</lastmod>
+  </url><url>
+    <loc>https://permito.rocks/</loc>
+    <lastmod>2025-01-31T21:14:06+01:00</lastmod>
+  </url><url>
+    <loc>https://permito.rocks/tags/personal/</loc>
+    <lastmod>2025-01-31T21:14:06+01:00</lastmod>
+  </url><url>
+    <loc>https://permito.rocks/tags/</loc>
+    <lastmod>2025-01-31T21:14:06+01:00</lastmod>
+  </url><url>
+    <loc>https://permito.rocks/posts/hello-world/</loc>
+    <lastmod>2025-01-31T18:02:07+01:00</lastmod>
+  </url><url>
+    <loc>https://permito.rocks/posts/</loc>
+    <lastmod>2025-01-31T18:02:07+01:00</lastmod>
+  </url><url>
+    <loc>https://permito.rocks/archives/</loc>
+  </url><url>
+    <loc>https://permito.rocks/categories/</loc>
+  </url><url>
+    <loc>https://permito.rocks/search/</loc>
+  </url>
+</urlset>
